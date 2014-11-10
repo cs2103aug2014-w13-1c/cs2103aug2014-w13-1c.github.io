@@ -3,5 +3,5 @@ app.controllers
 app.helpers
 app.model
 app.viewmanagers
-tests
 tests.integration
+tests.units
