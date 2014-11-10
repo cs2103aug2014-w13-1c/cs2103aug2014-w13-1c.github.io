@@ -1,0 +1,10 @@
+app
+app.controllers
+app.exceptions
+app.helpers
+app.model
+app.services
+app.viewmanagers
+app.views
+tests.integration
+tests.units
